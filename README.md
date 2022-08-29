@@ -1,5 +1,5 @@
 # Extraclase1_DatosII
-Codigos de referencia utilizados:
-Quicksort:
-Selectionsort:
-Insertionsort:
+Codigos de referencia utilizados:\n
+Quicksort:\n
+Selectionsort:\n
+Insertionsort:\n
