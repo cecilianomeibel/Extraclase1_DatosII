@@ -1,8 +1,14 @@
+//Insert libraries
 #include <iostream>
 #include <algorithm>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <bits/stdc++.h>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <sstream>
 
 using namespace std;
 
@@ -86,7 +92,7 @@ void insertionSort(int arr2[], int n)
     } 
 } 
   
-// A utility function to print an array of size n 
+// Function to print an array of size n 
 
 void printArray2(int arr2[], int n) 
 { 
