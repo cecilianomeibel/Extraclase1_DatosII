@@ -33,9 +33,24 @@ PagedArray::PagedArray(int size1, vector<int> array1){
     
 }
 
+
+int* Array::Pagination(){
+    p=(int *) malloc(6*(256*sizeof(int))):
+    for (size i=0; i<array.size(): i++){
+        p[i]= array [i]:
+    }
+    return 0;
+}
+
+
 void PagedArray::prueba(){
     cout<<"Hola mundo"<<endl;
     
+}
+
+// get cvs and pass to array
+int get_cvs(){
+
 }
 
 
